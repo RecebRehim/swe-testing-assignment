@@ -17,36 +17,40 @@ Quick-Calc is a simple calculator application that performs basic arithmetic ope
 
 Clone the repository:
 
+```bash
 git clone https://github.com/RecebRehim/swe-testing-assignment.git
-
+```
 Navigate into the project folder:
 
+```bash
 cd swe-testing-assignment
-
+```
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 ---
 
 # Running the Application
 
 Run the calculator:
 
+```bash
 python quick_calc/cli.py
-
+```
 ---
 
 # Running Tests
 
 Execute the test suite using:
-
+```bash
 pytest
-
+```
 or
-
+```bash
 python -m pytest
-
+```
 All tests should pass successfully.
 
 ---
